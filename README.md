@@ -29,7 +29,7 @@ The agent controls a lunar lander in the [OpenAI Gym LunarLander-v2](https://www
 After 2000 episodes of training:
 - **Average reward**: 230+ (solves the environment!)
 - **Success rate**: 95%
-- **Training time**: ~45 minutes on RTX GPU
+- **Training time**: ~5 minutes on RTX GPU
 
 ![Training Rewards](images/rewards.png)
 *Learning curve showing reward over episodes*
