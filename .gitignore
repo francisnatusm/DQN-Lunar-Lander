@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+myenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Results/Models (optional - if you don't want to track large files)
+results/*.pth
+results/*.h5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
