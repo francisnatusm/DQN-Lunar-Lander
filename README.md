@@ -25,7 +25,6 @@ The agent controls a lunar lander in the [Gymnasium LunarLander-v3](https://gymn
 ## Results
 
 - **Average reward**: 200+ (solves the environment)
-- **Training time**: ~5 minutes on RTX 4050 Laptop GPU
 
 ## Quick Start
 
